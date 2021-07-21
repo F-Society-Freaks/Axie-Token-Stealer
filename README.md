@@ -1,1 +1,1 @@
-I wont be responsible for anything, anywhere, anywhy, anywhen or anyone who use this. That's all!
+I wont be responsible for anything, anywhere, anywhy, anywhen or anyone who use this. That's all! In fact, this is just a "simple" script that Axie Infinity developers should patch AS SOON AS POSSIBLE!
